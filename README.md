@@ -25,7 +25,7 @@
 
 -pkg install git
 
--git clone 
+-git clone https://github.com/CyberJaindu/J-Baner
 
 -ls
 
